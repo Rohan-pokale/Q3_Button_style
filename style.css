@@ -1,0 +1,25 @@
+body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 90vw;
+     height: 90vh;
+}
+
+.btn {
+     color: rgb(255, 255, 255);
+     font-size: 16px;
+     line-height: 16px;
+     padding: 14px;
+     border-radius: 11px;
+     font-family: Georgia, serif;
+     box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+     border: none;  
+     background-color: #1C6EA4;
+          }
+     .btn:hover {
+     background: #022e4b; 
+     }
+     .btn:active {
+     background: #753014; 
+      }
